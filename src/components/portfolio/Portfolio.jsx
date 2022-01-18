@@ -2,7 +2,6 @@ import React from 'react';
 import "./Portfolio.scss";
 import TechBlog from "../../assets/portfolio/tech-blog.png";
 import TextEditor from "../../assets/portfolio/text-editor.png";
-import TestPic from "../../assets/portfolio/text-editor.png";
 import UrReview from "../../assets/portfolio/urReview.png";
 import FunNight from "../../assets/portfolio/fun-night.png";
 import Weather from "../../assets/portfolio/weather.png";
