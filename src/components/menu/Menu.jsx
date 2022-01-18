@@ -1,5 +1,6 @@
 import React from 'react'
 import "./Menu.scss"
+import Resume from '../../assets/cp-resume.pdf';
 
 
 export default function Menu({ menuOpen, setMenuOpen }) {
@@ -13,13 +14,10 @@ export default function Menu({ menuOpen, setMenuOpen }) {
                     <a href='#portfolio'>Portfolio</a>
                 </li>
                 <li onClick={()=>setMenuOpen(false)}>
-                    <a href='#works'>Works</a>
-                </li>
-                <li onClick={()=>setMenuOpen(false)}>
                     <a href='#contact'>Contact</a>
                 </li>
                 <li onClick={()=>setMenuOpen(false)}>
-                    <a href="#i">Resume</a>
+                    <a href={Resume}>Resume</a>
                 </li>
             </ul>
         </div>

@@ -9,10 +9,10 @@ export default function TopBar({ menuOpen,setMenuOpen }) {
             <div className="wrapper">
                 <div className="left">
                     <a href='#intro' className='logo'>Chris Petrevski</a>
-                    <div className="itemContainer">
+                    {/* <div className="itemContainer">
                         <PersonIcon className='icon'/>
                         <span>1234</span>
-                    </div>
+                    </div> */}
                     <div className="itemContainer">
                         <EmailIcon className='icon'/>
                         <span>c_petrevski@hotmail.com</span>

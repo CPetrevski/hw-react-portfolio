@@ -1,7 +1,6 @@
 import TopBar from "./components/topbar/TopBar";
 import Intro from "./components/intro/Into"
 import Portfolio from "./components/portfolio/Portfolio";
-import Works from "./components/works/Works"
 import Contact from "./components/contact/Contact";
 import Menu from "./components/menu/Menu"
 import "./App.scss"
@@ -17,7 +16,6 @@ function App() {
       <div className="sections">
         <Intro />
         <Portfolio />
-        <Works />
         <Contact />
       </div>
     </div>
