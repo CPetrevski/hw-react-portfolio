@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hw-react-portfolio/static/css/main.4f2743ce.css",
+    "main.js": "/hw-react-portfolio/static/js/main.6aa68a46.js",
+    "static/media/profile.png": "/hw-react-portfolio/static/media/profile.52f4fe0de0690b313a17.png",
+    "static/media/fun-night.png": "/hw-react-portfolio/static/media/fun-night.210f89395df2d251fa78.png",
+    "static/media/urReview.png": "/hw-react-portfolio/static/media/urReview.784276d8d8d22c7e095b.png",
+    "static/media/cp-resume.pdf": "/hw-react-portfolio/static/media/cp-resume.8178e32a7b65edfc3358.pdf",
+    "static/media/weather.png": "/hw-react-portfolio/static/media/weather.95a69987ab88c91f0b49.png",
+    "static/media/text-editor.png": "/hw-react-portfolio/static/media/text-editor.7784765b02e0ef00fe28.png",
+    "static/media/note.png": "/hw-react-portfolio/static/media/note.78eb6554066d3d3f55c4.png",
+    "index.html": "/hw-react-portfolio/index.html",
+    "main.4f2743ce.css.map": "/hw-react-portfolio/static/css/main.4f2743ce.css.map",
+    "main.6aa68a46.js.map": "/hw-react-portfolio/static/js/main.6aa68a46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f2743ce.css",
+    "static/js/main.6aa68a46.js"
+  ]
+}
