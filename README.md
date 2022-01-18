@@ -47,4 +47,4 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 <a href="https://github.com/CPetrevski/hw-react-portfolio">GitHub Repo</a>
 
-<a href="">GitHub Pages</a>
+<a href="https://cpetrevski.github.io/hw-react-portfolio/">GitHub Pages</a>
